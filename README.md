@@ -3,8 +3,8 @@ Steps to run
 
 In command prompt:
 
-1) npm -install in root directory
-2) npm -install in client directory
+1) npm install in root directory
+2) npm install in client directory
 
 In 2 different command prompts:
 
